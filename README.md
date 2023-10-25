@@ -10,7 +10,11 @@ FBX-System
 - As a user, I want to view all posts by a location.
 
 ### Write a Class Diagram
+![class_diagram](https://github.com/CE-SDPX-65G2/FBX-System/assets/77483621/dfc8571a-9aa8-4453-9d63-681365d2130b)
+
 ### Write Sequence Diagrams
+![Seq](https://github.com/CE-SDPX-65G2/FBX-System/assets/77483621/2db9289a-88fe-4c73-9e44-c2305e129aa7)
+
 ### Write APIs for this system
   (Following the Classes and Objects from the design)
   /post   						(with json input and save into **DB**)
